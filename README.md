@@ -2,7 +2,7 @@
 
 A modern, full-stack applicant tracking system built with React, TypeScript, and Supabase. Features a drag-and-drop Kanban board for managing candidates and a comprehensive analytics dashboard.
 
-![Mini ATS Screenshot](https://via.placehold er.com/800x400/3B82F6/FFFFFF?text=Mini+ATS+Dashboard)
+🚀 **Live Preview**: [mini-ats.vercel.app](https://mini-ats.vercel.app)
 
 ## 🚀 Features
 
