@@ -345,5 +345,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Built with ❤️ using modern web technologies for an exceptional user experience.
 
-**Demo**: [Live Demo](https://your-demo-url.com)  
 **Repository**: [GitHub](https://github.com/Sumit-Kadam-07/Mini-ATS)
